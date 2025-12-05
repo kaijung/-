@@ -1,0 +1,5 @@
+{
+  "name": "簡易語音生成",
+  "description": "A text-to-speech application for Lingjiu Mountain AR experiences using Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": []
+}
